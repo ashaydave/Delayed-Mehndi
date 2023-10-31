@@ -1,2 +1,2 @@
 # delayedmehndi
-Daler Mehndi inspired delay plugin using JUCE. 
+Interpolation delay plugin using JUCE, name inspired from Daler Mehndi. 
